@@ -1,0 +1,14 @@
+Alpha
+beta
+Gamma
+delta
+epsilon
+Foo
+bar
+FOO
+baz
+qux
+foo.bar
+foobar
+FoO
+end
