@@ -1,0 +1,6 @@
+name:age:city:country
+John:25:New York:USA
+Anna:30:London:UK
+Petr:28:Moscow:Russia
+Maria:35:Berlin:Germany
+Alex:22:Tokyo:Japan
